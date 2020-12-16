@@ -1,7 +1,2 @@
 url	imgUrl	order	shortHed
-http://www.nytimes.com/interactive/2014/upshot/mapping-the-spread-of-drought-across-the-us.html?abt=0002&abg=0	drought	1	Drought in the U.S.
-http://www.nytimes.com/interactive/2014/08/13/upshot/where-people-in-each-state-were-born.html?abt=0002&abg=0	migration	1	Where We Came From
-http://www.nytimes.com/interactive/2014/07/12/upshot/how-fan-loyalty-changed-during-the-world-cup.html?abt=0002&abg=0	fan-loyalty		World Cup Fans
-http://www.nytimes.com/interactive/2014/06/25/upshot/984-ways-the-united-states-can-advance-to-the-next-round-of-the-world-cup.html?abt=0002&abg=0	wc-matrix		986 Ways to Advance
-http://www.nytimes.com/2014/06/11/upshot/world-cup-opinions-in-19-countries-likes-dislikes-predictions.html?abt=0002&abg=0	wc-poll		World Cup Opinions
-http://www.nytimes.com/2014/04/27/upshot/there-is-one-more-baseball-map-we-love-showing-the-second-favorite-teams.html?abt=0002&abg=0	second-place		Second place baseball
+https://zambujo.github.io/nrpmap/	nrpmap	1	Swiss National Research Programmes.
