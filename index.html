@@ -220,7 +220,7 @@ a:hover {
 <script src="https://d3js.org/d3.v6.min.js"></script>
 
 <script type="text/javascript">
-d3.tsv("docs/assets/projects.tsv",function(projects) {
+d3.tsv("assets/projects.tsv",function(projects) {
 
   window.projects = projects;
 
@@ -236,7 +236,7 @@ d3.tsv("docs/assets/projects.tsv",function(projects) {
       .attr("href",function(d) { return d.url; });
 
   link.append("img")
-      .attr("src",function(d) { return "docs/assets/images/" + d.imgUrl + ".jpg"; })
+      .attr("src",function(d) { return "assets/images/" + d.imgUrl + ".jpg"; })
       .classed("work-thumbnail-image", true);
 
   thumbnail.append("a")
