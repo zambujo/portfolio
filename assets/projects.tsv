@@ -1,7 +1,8 @@
 url	imgUrl	order	shortHed
 https://zambujo.github.io/nrpmap/	nrpmap	1	Swiss NRPs
 https://zambujo.github.io/eunets/	eunets	2	H2020 Network
-https://zambujo.github.io/swissresearch/	swissresearch	3	SNF International
+https://zambujo.github.io/swissresearch/	swissresearch	3	SNSF Collabs
 https://zambujo.github.io/ercstats/	ercstats	4	ERC Statistics
 https://zambujo.github.io/temperature_trends/	temptrends	5	Temperature Trends
-https://zambujo.github.io/headliner/	headliner	6	headliner R Parckage
+https://zambujo.github.io/headliner/	headliner	6	headliner package
+https://zambujo.github.io/snfbudget/	snfbudget	7	SNSF Annual Budget
