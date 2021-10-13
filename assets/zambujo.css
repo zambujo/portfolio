@@ -8,7 +8,6 @@
   font-weight: 700;
 }
 .page-header {
-  font-family: 'Indie Flower', cursive;
   font-size: 50px;
   margin: 0 0 10px 0;
 }
@@ -18,7 +17,6 @@
 }
 
 .readin {
-  font-family: 'Indie Flower', cursive;
   font-size: 19px;
   line-height: 30px;
 }
@@ -129,7 +127,6 @@ a:hover {
 }
 
 .recent-work-hed {
-  font-family: "museo-slab-1",arial,sans;
   margin-left: 7px;
 }
 
